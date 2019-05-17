@@ -61,4 +61,5 @@ implementation detail of the current incarnation of FOREST.
 ## Live demonstration
 
 The public version of FOREST is hosted at https://forest.informaticslab.co.uk
+There is also a development version
 
